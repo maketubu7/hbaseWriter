@@ -8,7 +8,7 @@
     <scala.version>2.11.7</scala.version>
     <scala.level>2.11</scala.level>
     <hbase.version>1.2.6</hbase.version>
-    <spark.version>2.3.1</spark.version>
+    <spark.version>2.4.8</spark.version>
   </properties>
 
   <repositories>
